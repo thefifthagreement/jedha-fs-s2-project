@@ -28,7 +28,9 @@ Les **traits de caractères** les plus _**clivants**_ entre genres:
 Si l'attractivité semblait être importante à priori pour les hommes,
 quand il s'est agit de décider d'un autre rendez-vous **l'intelligence** et **la sincérité** 
 étaient aussi bien noté chez les hommes:
+
 ![alt text](./images/moy_notes_donnees_homme_plt.png)
 
 que chez les femmes:
+
 ![alt text](./images/moy_notes_donnees_femme_plt.png)
