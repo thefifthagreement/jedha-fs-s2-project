@@ -18,6 +18,8 @@ Les critères notés:
 * Ambition
 * Shared Interests
 
+## Principaux résultats
+### Les attentes
 La visualisation montre que les attentes sont différentes selon les genres:
 ![alt text](./images/comp_pref_sns_1.png)
 
@@ -25,8 +27,9 @@ Les **traits de caractères** les plus _**clivants**_ entre genres:
 - _chez la femme_ : **Ambition**, Sincérité, Appartenance ethnique, Convictions religieuses
 - _chez l'homme_ : **Attractivité**
 
+### Les critères les plus influents: *l'intelligence* et *la sincérité*
 Si l'attractivité semblait être importante à priori pour les hommes,
-quand il s'est agit de décider d'un autre rendez-vous **l'intelligence** et **la sincérité** 
+quand il s'est agit de décider d'un autre rendez-vous **l'intelligence** et **la sincérité**
 étaient aussi bien noté chez les hommes:
 
 ![alt text](./images/moy_notes_donnees_homme_plt.png)
