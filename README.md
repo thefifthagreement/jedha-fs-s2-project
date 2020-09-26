@@ -1,16 +1,16 @@
 # Speed dating: visualization project
 
-## Jedha Data Science Bootcamp - Fullstack - Semaine 2
+## Jedha Data Science Bootcamp - Fullstack - week 2
 
 _Session dsmft-paris-08_
 
-A partir du dataset [Speed dating data](https://www.kaggle.com/annavictoria/speed-dating-experiment/) de Kaggle, effectuer une visualisation et faire une analyse descriptive des principaux facteurs qui influencent le fait d'obtenir un deuxième rendez-vous.
+Using the [Speed dating data](https://www.kaggle.com/annavictoria/speed-dating-experiment/) kaggle dataset, I made some visualizations and a descriptive analysis of the factors determining the chance to have a second date.
 
-Ce dataset a été constitué lors d'une étude menée par la [Columbia Business School](http://faculty.chicagobooth.edu/emir.kamenica/documents/genderDifferences.pdf).
-Cette étude consistait en l'observation de speed dating expérimentaux; les participants devaient s'inscrire, répondre à des questionnaires quand à leurs attentes.
-Lors des évènements, après un entretien de 4 minutes, ils devaient noter le partenaire et décider s'il voulait le revoir.
+This dataset was created during a study made by the [Columbia Business School](http://faculty.chicagobooth.edu/emir.kamenica/documents/genderDifferences.pdf).
+This study observes dating behaviours during experimental speed datings; the participants were volunteers and were ask to complete questionnaires asking for their expectations.
+During the speed dating, after a 4 minutes long meeting, the participants were asked to give some notation to the mate and whether or not they would like to have a second date.
 
-Les critères notés:
+The characteristics evaluated:
 * Attractiveness
 * Sincerity
 * Intelligence
@@ -18,22 +18,22 @@ Les critères notés:
 * Ambition
 * Shared Interests
 
-## Principaux résultats
-### Les attentes
-La visualisation montre que les attentes sont différentes selon les genres:
+## Top results
+### Expectations
+Expectations are different between men and women:
 ![alt text](./images/comp_pref_sns_1.png)
 
-Les **traits de caractères** les plus _**clivants**_ entre genres: 
-- _chez la femme_ : **Ambition**, Sincérité, Appartenance ethnique, Convictions religieuses
-- _chez l'homme_ : **Attractivité**
+The **characteristics** witch make the _**main differences**_ between genders:
+- _women_ : **Ambition**, Sincerity, Same race, Same religion
+- _men_ : **Attractiveness**
 
-### Les critères les plus influents: *l'intelligence* et *la sincérité*
-Si l'attractivité semblait être importante à priori pour les hommes,
-quand il s'est agit de décider d'un autre rendez-vous **l'intelligence** et **la sincérité**
-étaient aussi bien noté chez les hommes:
+### The most influential characteristics: *Intelligence* and *Sincerity*
+_Attractiveness_ seemed to be important for men,
+but when the decision for the second date is made, **Intelligence** and **Sincerity**
+are well noted by the men:
 
 ![alt text](./images/moy_notes_donnees_homme_plt.png)
 
-que chez les femmes:
+like for the women:
 
 ![alt text](./images/moy_notes_donnees_femme_plt.png)
