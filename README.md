@@ -21,6 +21,7 @@ The characteristics evaluated:
 ## Top results
 ### Expectations
 Expectations are different between men and women:
+
 ![alt text](./images/comp_pref_sns_1.png)
 
 The **characteristics** witch make the _**main differences**_ between genders:
