@@ -20,7 +20,7 @@ The characteristics evaluated:
 
 ## Top results
 ### Expectations
-Expectations are different between men and women:
+Expectations are different between men (homme) and women (femme):
 
 ![alt text](./images/comp_pref_sns_1.png)
 
@@ -35,6 +35,6 @@ are well noted by the men:
 
 ![alt text](./images/moy_notes_donnees_homme_plt.png)
 
-like for the women:
+and for the women:
 
 ![alt text](./images/moy_notes_donnees_femme_plt.png)
