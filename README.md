@@ -1,8 +1,8 @@
 # Speed dating: visualization project
 
-## Jedha Data Science Bootcamp - Fullstack - week 2
+> Jedha Data Science Bootcamp - Fullstack - week 2
 
-_Session dsmft-paris-08_
+> _Session dsmft-paris-08_
 
 Using the [Speed dating data](https://www.kaggle.com/annavictoria/speed-dating-experiment/) kaggle dataset, I made some visualizations and a descriptive analysis of the factors determining the chance to have a second date.
 
